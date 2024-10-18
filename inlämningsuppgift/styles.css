@@ -272,6 +272,9 @@ display: block;
         padding-left: 1rem;
 
     }
+    .P{
+        padding-bottom: 1rem;
+    }
 
     .space-y-1 > * + * {
         margin-top: 1rem;
@@ -323,3 +326,74 @@ display: block;
         top: 215px;
     }
 
+    
+.container-2{
+    display: flex;
+width: 70%;
+background-color: var(--color-white);
+padding-bottom: 10rem;
+}
+
+.foto-map{
+    padding-top: 8rem;
+    max-width: 50%;
+    padding-left: 17rem;
+}
+
+.medical-contact {
+    padding-top: 8rem;
+    padding-left: 5rem;
+
+    p{
+        font-size: 16;
+        color: var(--color-gray700);
+    }
+}
+
+.medical-contact-1{
+    padding-top: 3rem;
+    p{
+        font-size: 16;
+    }
+}
+
+.days{
+    font-size: 16;
+    color: var(--color-gray900);
+}
+
+.icons{
+    padding-top: 1.5rem;
+    
+}
+.T{
+    padding-left: 1rem;
+}
+.I{
+    padding-left: 1rem;
+}
+
+.Y{
+    padding-left: 1rem;
+}
+
+
+.arrow{
+    padding-left: 1rem;
+}
+
+footer {
+
+    font-size: 14px;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    color: var(--color-gray600);
+    .container-3 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+    }
+    
+
+}
