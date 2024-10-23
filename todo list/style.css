@@ -9,7 +9,7 @@
     width: 100%;
     min-height: 100vh;
     padding: 10px;
-    background-color: rgb(220, 213, 225);
+    background-color: rgb(215, 212, 218);
     
 }
 
@@ -51,7 +51,7 @@ button {
     border: none;
     outline: none;
     padding: 16px 50px;
-    background: #ff5945;
+    background: #e708eb;
     color: #fff;
     font-size: 16px;
     cursor: pointer;
@@ -82,13 +82,13 @@ ul li::before{
 }
 
 ul li.checkeed{
-    color: orange
+    /* color: orange */
     /* text-decoration: line-through; */
 }
 
-ul li.checkeed::before {
+/* ul li.checkeed::before {
     background-image: url(checked.png);
-}
+} */
 
 ul li span{
     position: absolute;
